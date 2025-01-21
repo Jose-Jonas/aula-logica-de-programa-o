@@ -1,0 +1,15 @@
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex08\bin\Debug\net8.0\ex08.exe
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex08\bin\Debug\net8.0\ex08.deps.json
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex08\bin\Debug\net8.0\ex08.runtimeconfig.json
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex08\bin\Debug\net8.0\ex08.dll
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex08\bin\Debug\net8.0\ex08.pdb
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex08\obj\Debug\net8.0\ex08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex08\obj\Debug\net8.0\ex08.AssemblyInfoInputs.cache
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex08\obj\Debug\net8.0\ex08.AssemblyInfo.cs
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex08\obj\Debug\net8.0\ex08.csproj.CoreCompileInputs.cache
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex08\obj\Debug\net8.0\ex08.sourcelink.json
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex08\obj\Debug\net8.0\ex08.dll
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex08\obj\Debug\net8.0\refint\ex08.dll
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex08\obj\Debug\net8.0\ex08.pdb
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex08\obj\Debug\net8.0\ex08.genruntimeconfig.cache
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex08\obj\Debug\net8.0\ref\ex08.dll

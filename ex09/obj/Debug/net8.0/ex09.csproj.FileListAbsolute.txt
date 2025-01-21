@@ -1,0 +1,5 @@
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex09\obj\Debug\net8.0\ex09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex09\obj\Debug\net8.0\ex09.AssemblyInfoInputs.cache
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex09\obj\Debug\net8.0\ex09.AssemblyInfo.cs
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex09\obj\Debug\net8.0\ex09.csproj.CoreCompileInputs.cache
+C:\Users\Jose.jaraujo1\source\repos\logica_programacao_seg_qua_noite-main\ex09\obj\Debug\net8.0\ex09.sourcelink.json
